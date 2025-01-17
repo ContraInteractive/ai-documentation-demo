@@ -1,0 +1,6 @@
+{
+    "name": "yourvendor/documentation-generator",
+    "require": {
+        "nikic/php-parser": "^4.13"
+    }
+}
