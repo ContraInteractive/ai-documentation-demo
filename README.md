@@ -1,3 +1,8 @@
+### install
+```bash
+composer install
+```
+
 ### Run this script
 ```bash
 php generate_docs.php
